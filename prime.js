@@ -7,9 +7,9 @@ if(num%i==0)
 count++;
 }
 if(count==2){
-console.log("Prime");
+console.log(" Not Prime");
 }
 else{
-console.log("Not Prime");
+console.log("Prime");
 }
 }
